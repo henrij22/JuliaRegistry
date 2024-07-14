@@ -1,0 +1,6 @@
+name = "JuliaRegistry"
+uuid = "e0596c06-ee51-4ff2-959e-bf52646bff5c"
+repo = "https://github.com/henrij22/JuliaRegistry.git"
+description = "Julia Registry"
+
+[packages]
