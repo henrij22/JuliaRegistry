@@ -4,3 +4,4 @@ repo = "https://github.com/henrij22/JuliaRegistry.git"
 description = "Julia Registry"
 
 [packages]
+402afd0f-a347-4f14-ad4c-abedc99e1684 = { name = "PyVistaCompat", path = "P/PyVistaCompat" }
