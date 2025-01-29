@@ -5,4 +5,3 @@ description = "Julia Registry"
 
 [packages]
 402afd0f-a347-4f14-ad4c-abedc99e1684 = { name = "PyVistaCompat", path = "P/PyVistaCompat" }
-99016233-ed97-49a6-867d-9b1fce6b5467 = { name = "AutoDiffIGA", path = "A/AutoDiffIGA" }
