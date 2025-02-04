@@ -4,6 +4,7 @@ repo = "https://github.com/henrij22/JuliaRegistry.git"
 description = "Julia Registry"
 
 [packages]
+15d96d4e-a55c-433f-b8eb-a88007b7373b = { name = "Muesli", path = "M/Muesli" }
 402afd0f-a347-4f14-ad4c-abedc99e1684 = { name = "PyVistaCompat", path = "P/PyVistaCompat" }
 6dead231-e870-550e-b74b-2a3bf2cfaa53 = { name = "MuesliMaterialsWrapper_jll", path = "jll/M/MuesliMaterialsWrapper_jll" }
 ef259003-9f3a-5fc7-ae68-dce6b88dc7d6 = { name = "MuesliMaterials_jll", path = "jll/M/MuesliMaterials_jll" }
