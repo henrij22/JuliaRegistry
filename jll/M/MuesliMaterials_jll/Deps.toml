@@ -6,5 +6,8 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 ["1 - 1.16.0"]
 libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
 
-["1.16.1 - 1"]
+["1.16.1"]
 OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+
+["1.16.2 - 1"]
+libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
