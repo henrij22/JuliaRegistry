@@ -9,5 +9,9 @@ libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
 ["1.16.1"]
 OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
 
-["1.16.2 - 1"]
+["1.16.2"]
 libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
+
+["1.16.3 - 1"]
+LAPACK_jll = "51474c39-65e3-53ba-86ba-03b1b862ec14"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
