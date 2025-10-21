@@ -10,6 +10,11 @@ MuesliMaterialsWrapper_jll = "0.11.1 - 0.11"
 CxxWrap = "0.16 - 0.17"
 MuesliMaterialsWrapper_jll = "0.13"
 
+["0.1.2"]
+MuesliMaterialsWrapper_jll = "0.13.2 - 0.13"
+
 ["0.1.2 - 0"]
 CxxWrap = "0.17"
-MuesliMaterialsWrapper_jll = "0.13.2 - 0.13"
+
+["0.1.3 - 0"]
+MuesliMaterialsWrapper_jll = "0.13.3 - 0.13"
