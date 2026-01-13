@@ -8,3 +8,4 @@ description = "Julia Registry"
 402afd0f-a347-4f14-ad4c-abedc99e1684 = { name = "PyVistaCompat", path = "P/PyVistaCompat" }
 61c3bbe5-5a69-4256-958a-2912b3f39d32 = { name = "EigenValueSolvers", path = "E/EigenValueSolvers" }
 6dead231-e870-550e-b74b-2a3bf2cfaa53 = { name = "MuesliMaterialsWrapper_jll", path = "jll/M/MuesliMaterialsWrapper_jll" }
+7e61441e-6e6e-5c6f-8c66-76107880e13d = { name = "TinyGismo_jll", path = "jll/T/TinyGismo_jll" }
