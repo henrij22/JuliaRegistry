@@ -20,7 +20,7 @@ MuesliMaterials_jll = "1.16.3-1"
 ["0.11-0.13.0"]
 julia = "1.10-1.11"
 
-["0.13-0"]
+["0.13-0.14.0"]
 MuesliMaterials_jll = "1.16.0-1"
 
 ["0.13.1-0.13"]
@@ -37,4 +37,10 @@ libcxxwrap_julia_jll = "0.14.4-0.14"
 
 ["0.14-0"]
 julia = "1.10-1.13"
+
+["0.14.0"]
 libcxxwrap_julia_jll = "0.14.7-0.14"
+
+["0.14.1-0"]
+MuesliMaterials_jll = "1.16.1-1"
+libcxxwrap_julia_jll = "0.14.8-0.14"
