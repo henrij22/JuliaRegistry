@@ -3,16 +3,18 @@ Artifacts = ["0.0.0", "1"]
 Libdl = ["0.0.0", "1"]
 
 ["0-0.1"]
+JLLWrappers = "1.2.0-1"
+julia = "1.10.0-1"
 libcxxwrap_julia_jll = "0.14"
 
-["0-0.10"]
+["0.10"]
 julia = "1.10.0-1"
-
-["0-0.13.2"]
-JLLWrappers = "1.2.0-1"
 
 ["0.10-0.13.1"]
 libcxxwrap_julia_jll = "0.13.3-0.13"
+
+["0.10-0.13.2"]
+JLLWrappers = "1.2.0-1"
 
 ["0.11-0.12"]
 MuesliMaterials_jll = "1.16.3-1"
@@ -49,3 +51,9 @@ libcxxwrap_julia_jll = "0.14.8-0.14"
 
 ["0.14.2-0"]
 MuesliMaterials_jll = "1.16.2-1"
+
+["0.2"]
+JLLWrappers = "1.7.0-1"
+MuesliMaterials_jll = "1.16.3-1"
+julia = "1.10-1.13"
+libcxxwrap_julia_jll = "0.14.10-0.14"
