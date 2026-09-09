@@ -1,0 +1,6 @@
+["0.2-0"]
+ArnoldiMethod = "0.4"
+Arpack = "0.5"
+GenericArpack = "0.2"
+IterativeSolvers = "0.9"
+KrylovKit = "0.9.5-0.10"
