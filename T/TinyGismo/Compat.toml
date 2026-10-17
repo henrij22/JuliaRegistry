@@ -23,5 +23,8 @@ TinyGismo_jll = "0.2"
 ["0.3-0"]
 CxxWrap = "0.17"
 
-["0.4-0"]
+["0.4-0.4.1"]
 TinyGismo_jll = "0.3"
+
+["0.4.2-0"]
+TinyGismo_jll = "0.3-0.4"
