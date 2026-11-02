@@ -42,5 +42,8 @@ MuesliMaterialsWrapper_jll = "1"
 ["0.3.1-0.3"]
 MuesliMaterialsWrapper_jll = "1.1.0-1"
 
-["0.4-0"]
+["0.4.0"]
 MuesliMaterialsWrapper_jll = "1.2.0-1"
+
+["0.4.1-0"]
+MuesliMaterialsWrapper_jll = "1.2.1-1"
