@@ -24,7 +24,7 @@ MuesliMaterialsWrapper_jll = "0.13.3-0.13"
 ["0.1.5"]
 MuesliMaterialsWrapper_jll = "0.14"
 
-["0.1.5-0"]
+["0.1.5-0.3.0"]
 Tullio = "0.3"
 
 ["0.1.6-0.1"]
@@ -36,5 +36,8 @@ MuesliMaterialsWrapper_jll = "0.2"
 ["0.2.1-0.2"]
 MuesliMaterialsWrapper_jll = "0.2.2-0.2"
 
-["0.3-0"]
+["0.3.0"]
 MuesliMaterialsWrapper_jll = "1"
+
+["0.3.1-0"]
+MuesliMaterialsWrapper_jll = "1.1.0-1"
