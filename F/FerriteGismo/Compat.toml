@@ -28,3 +28,6 @@ TinyGismo = "0.4"
 ["0.6.3-0"]
 TinyGismo = "0.4.4-0.4"
 WriteVTK = "1"
+
+["0.7-0"]
+LinearAlgebra = "1.11.0-1"
